@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-This project aims to analyze the geospatial distribution of New York City bike stations and nearby points of interests, using Yelp data for ratings. The analysis also explores how proximity to bike stations affects Yelp ratings for nearby POIs. Through EDA and regression modeling, Insights were derived about spatial clustering, user preferences.
+    This project analyzes the geospatial distribution of New York City (NYC) bikestations and nearby Points of Interest (POIs) using Yelp data. Specifically, it explores how proximity to bike stations affects Yelp ratings for nearby POIs. Through exploratory data analysis (EDA) and regression modeling, insights are derived about spatial clustering and user preferences.
 ## Process
 ### Step1: Data set preparation:
     Bike station Data:
